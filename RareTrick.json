@@ -40,5 +40,12 @@
         "password": "admin",
         "expirydate": "15-12-2025",
         "Allowoffline": true
-   } 
+   },
+    {
+        "device_id": "190af7cbea175e6e",
+        "username": "user1",
+        "password": "pass123",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    }
 ]
