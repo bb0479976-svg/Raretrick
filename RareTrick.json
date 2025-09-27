@@ -18,7 +18,7 @@
         "username": "admin",
         "password": "admin",
         "expirydate": "15-12-2027",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "dcea8d5e1d2c1e67",
