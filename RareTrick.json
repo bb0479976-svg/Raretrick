@@ -19,5 +19,12 @@
         "password": "admin",
         "expirydate": "15-12-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "dcea8d5e1d2c1e67",
+        "username": "Rare",
+        "password": "Trick",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
     }
 ]
