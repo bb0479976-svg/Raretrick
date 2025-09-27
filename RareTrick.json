@@ -61,5 +61,12 @@
         "password": "RareTrick",
         "expirydate": "31-12-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "dcb3b747a5b0889f",
+        "username": "admin",
+        "password": "Rare1",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
     }
 ]
